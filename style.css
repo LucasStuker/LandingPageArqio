@@ -70,3 +70,12 @@ header p{
         padding-left: 5px;
         
     }
+    #footer button{
+        margin-top: 40px;
+        background-color: #c07212;
+        color: #FFFFFF;
+        height: 60px;
+        width: 300px;
+        border-radius: 10px;
+
+    }
